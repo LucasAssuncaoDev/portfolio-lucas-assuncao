@@ -1366,6 +1366,50 @@ section {
   text-shadow: 0 0 20px rgba(0, 123, 255, 0.7);
 }
 
+.btn-projeto-site {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+  height: 42px;
+  padding: 0 16px;
+
+  border: 1px solid var(--azul-claro);
+  border-radius: 6px;
+
+  background: rgba(0, 123, 255, 0.08);
+  color: var(--azul-claro);
+
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+
+  text-decoration: none;
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.btn-projeto-site i {
+  font-size: 0.8rem;
+  transition: 0.3s;
+}
+
+.btn-projeto-site:hover {
+  background: var(--azul-claro);
+  color: white;
+
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 6px 20px rgba(0, 123, 255, 0.35);
+}
+
+.btn-projeto-site:hover i {
+  transform: translate(2px, -2px);
+}
+
 
 /* MOBILE */
 

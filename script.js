@@ -5,7 +5,6 @@
 const projetos = {
   "nails-pro": {
     titulo: "Nails Pro",
-
     imagens: [
       "assets/img-nails/Criação.png",
       "assets/img-nails/login.png",
@@ -18,8 +17,18 @@ const projetos = {
       "assets/img-nails/Despesas.png",
       "assets/img-nails/Serviços.png",
     ]
+  },
+
+  "tempo-agora": {
+    titulo: "Tempo Agora",
+    imagens: [
+      "assets/img-tempo-agora/tempo.png",
+      "assets/img-tempo-agora/outros-dias.png",
+      "assets/img-tempo-agora/localizacao.png",
+    ]
   }
 };
+
 
 
 const modalGaleria =
