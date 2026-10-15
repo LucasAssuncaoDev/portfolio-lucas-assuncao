@@ -26,7 +26,19 @@ const projetos = {
       "assets/img-tempo-agora/outros-dias.png",
       "assets/img-tempo-agora/localizacao.png",
     ]
-  }
+  },
+
+
+"monique-hellen": {
+  titulo: "Monique Hellen | Nail Design",
+  imagens: [
+    "assets/img-moniquehellen/inicio.png",
+    "assets/img-moniquehellen/servicos.png",
+    "assets/img-moniquehellen/galeria.png",
+    "assets/img-moniquehellen/responsivo.png",
+    "assets/img-moniquehellen/whatsapp.png",
+  ]
+},
 };
 
 
