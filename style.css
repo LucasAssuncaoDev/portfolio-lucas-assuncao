@@ -1103,7 +1103,7 @@ section {
 }
 
 .projeto-links {
-  display: flex;
+  display: grid;
   align-items: center;
   gap: 12px;
 }
